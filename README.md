@@ -17,28 +17,3 @@ I'm interested in all things tech, but especially in full-stack developement as 
 ### I plan on focusing on these ones next
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-
-## Project breakdown
-
-### [todo-app](https://github.com/Mirxii/todo-app)
-
-Currently my most well built and feature rich project
-
-- Simple Full Stack app
-- Implements a basic CRUD functionality
-- Made with React and Node.js
-- Backend tests (Automated with GitHub Actions)
-
-### [NativeWeather-app](https://github.com/Mirxii/NativeWeather-App)
-
-Simple Weather Forecast app for mobile
-
-- Made with React Native
-- Uses OpenWeatherMap API
-
-### [Luuriliike](https://github.com/Mirxii/luuriliike)
-
-Very simple frontend project
-
-- Made with React and TailwindCSS
-- Deployed to Firebase (through GitHub Actions)

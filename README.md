@@ -1,6 +1,6 @@
 ## Hi, my name is Tuomas Kiviniemi 👋
 
-I'm a third-year engineering student at Tampere University of Applied Sciences (TAMK), majoring in software engineering aswell as telecommunications and networks.
+I'm a final-year engineering student at Tampere University of Applied Sciences (TAMK), majoring in software engineering aswell as telecommunications and networks.
 
 I'm interested in all things tech, but especially in full-stack developement as well as data analytics and AI.
 
